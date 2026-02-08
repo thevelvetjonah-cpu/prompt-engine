@@ -1,0 +1,38 @@
+{
+  "schemaVersion": "1.0",
+  "presets": [
+    {
+      "id": "neko_deer_01",
+      "name": "Neko Deer (Shy)",
+      "tags": ["neko", "deer", "shy"],
+      "appearance": "humanoid Neko deer girl, blue eyes, long brown hair, brown ears with white fur, large chested",
+      "default_expression": "smiling nervously, biting lip",
+      "default_position": "arms crossed, shy posture",
+      "default_actions": "making peace sign",
+      "thumbnail": "",
+      "description": "A timid deer-neko with soft brown tones, suited for shy/introverted characters."
+    },
+    {
+      "id": "neko_rabbit_01",
+      "name": "Neko Rabbit (Confident)",
+      "tags": ["neko", "rabbit", "confident"],
+      "appearance": "Neko rabbit girl, yellow ears, long blonde hair in ponytail, slender figure, tall",
+      "default_expression": "confident grin, warm smile",
+      "default_position": "standing behind",
+      "default_actions": "making peace sign to camera",
+      "thumbnail": "",
+      "description": "A confident rabbit-neko, good for leader/confident poses."
+    },
+    {
+      "id": "neko_cat_01",
+      "name": "Neko Cat (Playful)",
+      "tags": ["neko", "cat", "playful"],
+      "appearance": "humanoid Neko cat girl, green eyes, short black hair, cat ears with white tips, lithe build",
+      "default_expression": "playful smirk, winking",
+      "default_position": "kneeling on one knee",
+      "default_actions": "tilting head, tail flick",
+      "thumbnail": "",
+      "description": "A playful cat-neko for mischievous expressions and dynamic poses."
+    }
+  ]
+}
